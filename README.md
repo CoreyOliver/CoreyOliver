@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **coreyoliver.dev@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/corey-oliver](www.linkedin.com/in/corey-oliver)
+- 📄 Know about my experiences https://www.linkedin.com/in/corey-oliver-4b952b114/
 
 - ⚡ Fun fact **I have two daughters and my first web app was a basic AAC device for my youngest with a speech delay.**
 
