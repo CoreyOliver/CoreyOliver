@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Inventory stock locator for home grown WMS**
 
-- 🌱 I’m currently learning **React.JS, Node.JS, SQL**
+- 🌱 I’m currently working with **React.JS, Node.JS, SQL**
 
 - 👨‍💻 All of my projects are available at [https://coreyoliverdev.netlify.app/](https://coreyoliverdev.netlify.app/)
 
