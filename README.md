@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working with **React.JS, Node.JS, SQL**
 
-- 👨‍💻 All of my projects are available at [https://coreyoliverdev.netlify.app/](https://coreyoliverdev.netlify.app/)
+- 👨‍💻 All of my projects are available at [www.coreyoliver.xyz](www.coreyoliver.xyz)
 
 - 💬 Ask me about **WMS integration. JS web apps.**
 
