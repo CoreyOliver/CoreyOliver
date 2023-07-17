@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Corey Oliver</h1>
 <h3 align="center">I'm currently a software engineer coming from a background as a Distribution Manager for retail fashion goods. During my time in distribution I've learned to look at problems from different perspectives to find unique solutions including developing software as tools in the program. I've taken some of the skills I've learned from solving problems at work to developing solutions at home including a basic AAC portal for my speech delayed child.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coreyoliver" alt="coreyoliver" /></a> </p>
 
 - 🔭 I’m currently working on **Inventory stock locator for home grown WMS**
 - Passionate about modernizing workplace functionality with accesible web apps for the team!
